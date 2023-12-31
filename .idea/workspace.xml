@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="405aad71-1555-472a-9916-91822b3691a0" name="Changes" comment="Maven library downloaded and implementation of Computer record and ComputerLoader interface" />
+    <list default="true" id="405aad71-1555-472a-9916-91822b3691a0" name="Changes" comment="Main class implemented" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703961004470</updated>
-      <workItem from="1703961005546" duration="10021000" />
+      <workItem from="1703961005546" duration="10876000" />
     </task>
     <task id="LOCAL-00001" summary="Maven library downloaded and implementation of Computer record and ComputerLoader interface">
       <option name="closed" value="true" />
@@ -74,7 +74,31 @@
       <option name="project" value="LOCAL" />
       <updated>1703979985836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Maven library downloaded and implementation of Computer record and ComputerLoader interface">
+      <option name="closed" value="true" />
+      <created>1703980098355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703980098355</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SqliteComputerLoader class implemented to read from database">
+      <option name="closed" value="true" />
+      <created>1703980726206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703980726206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Main class implemented">
+      <option name="closed" value="true" />
+      <created>1703980911524</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703980911524</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maven library downloaded and implementation of Computer record and ComputerLoader interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maven library downloaded and implementation of Computer record and ComputerLoader interface" />
+    <MESSAGE value="SqliteComputerLoader class implemented to read from database" />
+    <MESSAGE value="Main class implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main class implemented" />
   </component>
 </project>
